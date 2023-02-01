@@ -1,0 +1,8 @@
+TestNG - Testing Framework
+	Unit Testing Framework
+
+	jUnit + nUnit = TestNG
+
+To work with TestNG we need 2 things
+	1. Plugin
+	2. Library
